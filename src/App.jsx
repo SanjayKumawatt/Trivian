@@ -40,6 +40,10 @@ const App = () => {
           element:<Contact/>
         },
         {
+          path:"/demo",
+          element:<Contact/>
+        },
+        {
           path:"/products",
           element:<Products/>
         },
